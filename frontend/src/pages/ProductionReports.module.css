@@ -1,0 +1,191 @@
+.productionReportsPage{
+    margin: 10px;
+    padding: 10px 40px;
+    margin-top: 20px;
+}
+
+.productionReportsAddData{
+    display: flex;
+}
+
+.productionReportsAdd{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.productionReportsAddSalesbtn{
+    border: 3px solid #5F7161;
+    background: #D0C9C0;
+    padding: 20px;
+    padding: 25px 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    height: 90px;
+}
+
+.productionReportsAdd{
+
+}
+
+.productionReportsAddProductionbtn{
+    border: 3px solid #5F7161;
+    background: #D0C9C0;
+    padding: 20px;
+    padding: 25px 35px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    height: 90px;
+}
+
+.productionReportsAddText {
+    margin-bottom:0;
+}
+
+.productionReportsAddicon {
+    width: 40px;
+    margin: 0 20px;
+    margin-right: 0;
+}
+
+
+
+.productionReportsDetails {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.productionReportStats {
+    background: blue;
+    color: white;
+    padding: 18px 30px;
+    border-radius: 5px;
+    width: 28%;
+}
+
+.productionReportStatsRight {
+    background-image: linear-gradient(to right, #44a2ff , #37ecdf);
+}
+
+.productionReportStatsMiddle {
+    background-image: linear-gradient(to right, #ff8e90 , #feb884);
+}
+
+.productionReportStatsLeft {
+    background-image: linear-gradient(to right, #08d08d , #7dfab0);
+}
+
+.productionReportStatsHeading {
+    margin-bottom: 0;
+}
+
+.productionReportStatsNumber {
+    font-size: 28px;
+    font-weight: 900;
+    margin-bottom: 5px;
+    line-height: 30px;
+}
+
+.productionReportStatsMonth {
+    margin-bottom: 0;
+}
+
+
+
+.productionReportReportSec {
+
+}
+
+.productionReportReportSecHeading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.productionReportReportSecHeadingSelect {
+    width: 25%;
+}
+
+.productionReportReportSecHeadingPrint {
+    width: max-content;
+    padding: 0 30px;
+    background: #D29D2B;
+    border-radius: 3px;
+}
+
+.productionReportReportSecHeadingPrintP {
+    margin-bottom: 0;
+    margin-top: 6px;
+    font-style: bold;
+    color:white;
+}
+
+.productionReportReportSecTable {
+
+}
+
+.productionReportTable {
+    width: 100%;
+    margin: 40px 0;
+    color: #936B52;
+}
+
+.productionReportTableHeadingRow {
+    height: 50px;
+    background: #FBF4EF;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    font-size: 18px;
+    border: 1px solid #936B52;
+    border-bottom: 0;
+}
+
+.productionReportTableName {
+    width: 30%
+}
+
+.productionReportTableProduction {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.productionReportTableSales {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.productionReportTableStocks {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.productionReportTableAvailability {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.productionReportTableRow {
+    display: flex;
+    padding: 0 15px;
+    height: 50px;
+    align-items: center;
+    border: 1px solid #936B52;
+    background: white;
+}

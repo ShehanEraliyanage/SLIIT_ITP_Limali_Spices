@@ -1,0 +1,27 @@
+.productInfoRow {
+    display: flex;
+    padding: 25px 0;
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+
+.productInfoKey {
+    width: 34%;
+}
+
+.productInfoValue {
+    width: 60%;
+}
+
+.productInfoValueEdit{
+
+}
+
+.productInfoValueEditImage{
+    width: 27px;
+    height: 27px;
+}
+
+.para {
+    margin-bottom: 0;
+}

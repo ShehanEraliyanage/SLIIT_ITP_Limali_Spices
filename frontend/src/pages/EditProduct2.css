@@ -1,0 +1,27 @@
+select {
+    width: 160px;
+    padding: 10px 35px 10px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    height: 44px;
+    appearance: none;
+    background: url(https://res.cloudinary.com/itp2022/image/upload/v1650953234/down-chevron_f0qz3c.png) 96% / 15% no-repeat #eee;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+/* CAUTION: Internet Explorer hackery ahead */
+
+select::-ms-expand {
+  display: none; /* Remove default arrow in Internet Explorer 10 and 11 */
+}
+
+/* Target Internet Explorer 9 to undo the custom arrow */
+@media screen and (min-width: 0\0) {
+  select {
+    background: none\9;
+    padding: 5px\9;
+  }
+}

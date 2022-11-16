@@ -1,0 +1,12 @@
+.root {
+    display:flex;
+    flex-direction: row;
+    background: #F9DEA9;
+}
+
+.content{
+    width: 80%;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:background="@drawable/back">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/logo"
+                android:layout_gravity="center">
+
+            </ImageView>
+            <Button
+                android:id="@+id/profile"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Profile"
+                android:textColor="#000000"></Button>
+
+            <Button
+                android:id="@+id/addbtn"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Order Placement"
+                android:textColor="#000000"></Button>
+
+            <Button
+                android:id="@+id/ohistorybtn"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Order History"
+                android:textColor="#000000"></Button>
+
+            <Button
+                android:id="@+id/phistorybtn"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Purchase History"
+                android:textColor="#000000"></Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Inquiry"
+                android:textColor="#000000"></Button>
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#80dedede"
+                android:text="Logout"
+                android:textColor="#000000"></Button>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

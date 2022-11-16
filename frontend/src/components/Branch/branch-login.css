@@ -1,0 +1,27 @@
+body{
+    background-color: #EFBB64 !important;
+
+}
+.login-wrap{
+    background-color: #f2f2f2;
+    padding: 1% 0;
+    width: 30%;
+    margin: 96px auto;
+    box-shadow: 1px 3px 21px 2px #797a7a;
+}
+.from-group {
+    padding: 0px ;
+}
+.login-wrap h2{
+    background-color: #F2F2F2;
+color: black;
+}
+.login-wrap .btn-wrap{
+    text-align: right;
+}
+.from-group label {
+    margin-bottom: 8px;
+    font: 1em sans-serif;
+      font-size: 1em;
+    font-size: 100%;
+  }

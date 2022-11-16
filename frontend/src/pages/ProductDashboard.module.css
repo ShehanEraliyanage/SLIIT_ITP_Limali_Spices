@@ -1,0 +1,171 @@
+.dashBoardPage {
+    margin: 10px;
+    padding: 10px 40px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dashBoardPageLeft {
+    width: 63%;
+display: flex;
+flex-direction: column;
+}
+
+.dashBoardPageLeftFirst {
+    display: flex;
+flex-direction: row;
+background: #F9B022;
+color: white;
+padding: 10px 30px;
+border-radius: 20px;
+}
+
+.dashBoardPageLeftFirstHeading {
+    width: 50%;
+    margin-top: 40px;
+}
+
+.dashBoardPageLeftFirstHeadingH3 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.dashBoardPageLeftFirstHeadingP {
+    font-size: 20px;
+}
+
+.dashBoardPageLeftFirstImageOne {
+    width: 35%;
+}
+
+.dashBoardPageLeftFirstImageOneImg {
+    width: 190px;
+    height: 175px;
+}
+
+.dashBoardPageLeftFirstImageTwo {
+    
+}
+
+.dashBoardPageLeftFirstImageTwoImg {
+    width: 130px;
+margin-top: 60px;
+height: 110px;
+}
+
+
+.dashBoardPageLeftSecond {
+    display: flex;
+    padding: 30px 0;
+    justify-content: space-between;
+}
+
+.dashBoardPageLeftSecondCategory {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+
+.dashBoardPageLeftSecondCategoryImage{
+
+}
+
+.dashBoardPageLeftSecondCategoryImageImg {
+    width: 150px;
+}
+
+.dashBoardPageLeftSecondCategoryValue {
+    margin: 0;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.dashBoardPageLeftSecondCategoryName {
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.dashBoardPageLeftThird {
+
+}
+
+.dashBoardPageRight {
+    width: 37%;
+    padding: 0 30px;
+}
+
+.dashBoardPageRightFirst {
+
+}
+
+.dashBoardPageRightSecond {
+    margin: 30px 0;
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.dashBoardPageRightSecondHeading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.dashBoardPageRightSecondHeadingH4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.dashBoardPageRightSecondHeadingbtn {
+    padding: 5px 15px;
+    background: #F9B022;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.dashBoardPageRightSecondProducts {
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+    max-height: 370px;
+    overflow-y: auto;
+}
+
+.dashBoardPageRightSecondProduct {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.dashBoardPageRightSecondProductImage {
+
+}
+
+.dashBoardPageRightSecondProductImageimg {
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+}
+
+.dashBoardPageRightSecondProductName {
+    width: 185px;
+    padding: 0 15px;
+}
+
+.dashBoardPageRightSecondProductNameP {
+
+}
+
+.dashBoardPageRightSecondProductIcon {
+    margin-right: 15px;
+}
+
+.dashBoardPageRightSecondProductIconimg {
+    width: 35px;
+}

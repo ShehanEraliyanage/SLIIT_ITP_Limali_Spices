@@ -1,0 +1,29 @@
+.productHeadingImage {
+
+}
+
+.productHeadingImageImg{
+    width: 25px;
+    padding: 5px 0;
+}
+
+.productHeadingSearchBar {
+    border: 1px solid black;
+    margin: 0;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.productHeadingSearchInput{
+    background: transparent;
+    border: none;
+    width: 200px;
+}
+
+.productHeadingSearchInput:focus { 
+    outline: none !important;
+    }
+
+.productHeadingSearchBarImg {
+    width: 25px;
+}

@@ -1,0 +1,57 @@
+.ViewSuppliers{
+    height: 80%;
+    width: 90%;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 5%;
+    border-radius: 2%;
+   
+    
+  
+  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+  }
+
+
+ .card {
+    width: 13.5rem;
+    align-items: center;
+    margin: 10px;
+
+    
+ }
+
+
+ .btn-primary{
+     margin-left: 15px;
+ }
+ .card img{
+     margin-top: 10px;
+    width: auto;
+    height: 100px;
+    
+ }
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.btn-primary{
+    background-color: #F9B022;
+    width: 100px;
+}
+
+.search{
+    margin-top: 10px;
+    height: 45px;
+}
+
+
+

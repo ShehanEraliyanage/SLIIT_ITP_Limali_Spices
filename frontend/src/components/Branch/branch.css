@@ -1,0 +1,34 @@
+.row{
+display: flex;
+}
+.btn-group-confirm{
+    width: 17.5%;
+}
+.btn-group-reject{
+    width: 18.5%;   
+ }
+ 
+.btn-warning.active{
+    color: #000;
+    background-color: #d92222;
+    border-color: #514c3e;
+    }
+    .link{
+        margin-top: 9px !important;
+        margin-left: 15px !important;
+    }
+ 
+    .open-branch{
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: end;
+    }
+    .styled-table tbody tr{
+        background-color: #fffefe;
+    }
+    .nav img{
+        margin-bottom: 20px;
+    }
+    .nav {
+        height: 100%;
+    }

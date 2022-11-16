@@ -1,0 +1,148 @@
+.newProductForm {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.newProductFormContent {
+  width: 43%;
+  background: white;
+  margin: 25px auto;
+  border: 1px solid #1d5c63;
+  border-radius: 20px;
+}
+
+.formRight {
+  padding: 20px 0;
+  height: min-content;
+}
+
+.formContent {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 25px auto;
+}
+
+.formLabel {
+  font-size: 15px;
+  height: 25px;
+}
+
+.formInput {
+  height: 30px;
+  border-radius: 5px;
+}
+
+.formInputdescription {
+  height: 120px;
+  font-size: 15px;
+  font-style: normal;
+  font-family: ari;
+}
+
+.imageUpload {
+  height: min-content;
+  padding-bottom: 25px;
+}
+
+.imageUploadHeading {
+  margin: 20px auto;
+  font-size: 16px;
+  height: 30px;
+  padding-top: 26px;
+  padding-left: 48px;
+  padding-bottom: 10px;
+}
+
+.imageUploadSection {
+  border: 2px dashed #637bcb;
+  height: min-content;
+  margin: 0 45px;
+  border-radius: 20px;
+}
+
+.imageUploadImage {
+  width: 50%;
+  height: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  margin-top: 20px;
+}
+
+.imageUploadUploadDiv {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: min-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imageUploadIcon {
+    width: 25px;
+    height: 100%;
+}
+
+.imageUploadBrowsePara{
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.imageUploadBrowse{
+    width:min-content;
+}
+
+.productFormSubmitDiv {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.imageUploadedImages {
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  margin: 15px 30px;
+}
+
+.imageUploadedImagesRow{
+  display: flex;
+  margin: 10px 15px;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.imageUploadedImagesPreview{
+  width: 18%;
+  margin-left: 5px;
+}
+
+.imageUploadedImagesPreviewImage{
+  width: 55px;
+  height: 50px;
+}
+
+.imageUploadedImagesName{
+  width: 64%;
+  padding-right: 20px;
+  overflow: hidden;
+}
+
+.imageUploadedImagesNameText {
+  overflow: hidden;
+}
+
+.imageUploadedImagesDelete {
+  width: 10%;
+}
+
+.imageUploadedImagesDeleteImage {
+  width: 35px;
+}
+

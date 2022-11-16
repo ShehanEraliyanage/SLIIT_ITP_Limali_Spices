@@ -1,0 +1,55 @@
+/* .topNav {
+    height: 100px;
+    background: blue;
+} */
+
+.subbody{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #EFBB64;
+}
+  
+.body{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    background: #EFBB64;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.topbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+  
+  .topbarleft{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .topbarleft hr{
+    background: black;
+    height: 60%;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  
+  .topbarrigth{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .topbarlink{
+      cursor: pointer;
+      padding: 5px;
+      color: black;
+      margin-left: 4px;
+      margin-right: 4px;
+  }

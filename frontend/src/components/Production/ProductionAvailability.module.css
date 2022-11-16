@@ -1,0 +1,23 @@
+.available {
+    padding: 5px 13px;
+    background: #A1EEEF;
+    border-radius: 5px;
+    color: #618F8F;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.stocksRunningLow {
+    padding: 5px 13px;
+    background: #F5DDF8;
+    border-radius: 5px;
+    color: #9856A0;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.outOfStocks {
+    padding: 5px 13px;
+    background: #F5CED2;
+    border-radius: 5px;
+    color: #972834;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}

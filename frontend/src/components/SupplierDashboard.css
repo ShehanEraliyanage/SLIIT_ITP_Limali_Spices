@@ -1,0 +1,30 @@
+.SupplierDashboard {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+  }
+  
+  .Left{
+    width: 23%;
+    height: 100%;
+   
+    
+  }
+  
+  .Right{
+    width: 77%;
+    height: 100%;
+    background-color: #EFBB64;
+  
+  }
+  
+  /* .count-item {
+    height: 200px;
+    background-color: #EFBB64;
+    margin-top:-15px;
+    margin-left: 5px;
+  } */
+
+
+  
+  

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SupplierProfileUpdate"
+    android:background="@drawable/back"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:layout_width="200px"
+                    android:layout_height="150px"
+                    android:layout_marginLeft="40px"
+                    android:layout_marginTop="30px"
+                    android:text="Close"
+                    android:textSize="15dp"
+                    android:padding="0px"
+                    android:textColor="@color/white"
+
+                    android:backgroundTint="#eb2f0e"
+                    >
+
+                </Button>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Edit Profile"
+                    android:textStyle="bold"
+                    android:textSize="25dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="10dp"></TextView>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#80dedede"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Name">
+
+                </EditText>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Email">
+
+                </EditText><EditText
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:hint="Contact Number">
+
+            </EditText><EditText
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:hint="NIC">
+
+            </EditText><EditText
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:hint="Address">
+
+            </EditText>
+
+
+
+
+
+
+            </LinearLayout>
+
+            <Button
+                android:layout_width="350dp"
+                android:layout_height="160px"
+                android:backgroundTint="#F9B022"
+                android:text="Save Changes"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp"
+                android:layout_marginTop="50px"
+                android:layout_gravity="center">
+
+            </Button>
+
+            <LinearLayout
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#80dedede"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Current Password">
+
+                </EditText>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="New Password">
+
+                </EditText>
+                <EditText
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:hint="Re-Enter New Password"/>
+
+
+
+
+
+
+
+
+            </LinearLayout>
+
+            <Button
+                android:layout_width="350dp"
+                android:layout_height="160px"
+                android:backgroundTint="#F9B022"
+                android:text="Save Changes"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp"
+                android:layout_marginTop="50px"
+                android:layout_gravity="center">
+
+            </Button>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

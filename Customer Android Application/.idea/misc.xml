@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_profile_update.xml" value="0.17074275362318841" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_purchase_quotation.xml" value="0.17074275362318841" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_quotation_add.xml" value="0.25" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_quotation_history.xml" value="0.17074275362318841" />
+        <entry key="..\:/MAD/ITP/app/src/main/res/layout/activity_supplier_register.xml" value="0.18" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1745" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/btn_customer.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_back_white.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_email_silver.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_forward_white.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1745" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_password_silver.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_pen_silver.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_person_silver.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_phone_silver.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/ic_right_white.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/drawable/start_button.xml" value="0.1" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_login.xml" value="0.18" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_order_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_order_history.xml" value="0.22" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_profile_update.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_purchase_history.xml" value="0.75" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_customer_register.xml" value="0.22" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/activity_purchase_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/item_order_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP hirusha/app/src/main/res/layout/item_purchase_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_customer_order_add.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_customer_order_history.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_customer_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_customer_profile_update.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_customer_register.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_profile_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_purchase_quotation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_quotation_add.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_quotation_history.xml" value="0.2" />
+        <entry key="..\:/Users/Thanu/Desktop/MAD/ITP/app/src/main/res/layout/activity_supplier_register.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

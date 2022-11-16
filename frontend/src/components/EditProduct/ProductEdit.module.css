@@ -1,0 +1,45 @@
+.productInfoRow {
+    display: flex;
+    padding: 20px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+
+.productInfoKey {
+    width: 34%;
+}
+
+.productInfoValue {
+    width: 60%;
+}
+
+.productInfoValueEdit{
+
+}
+
+.productInfoValueEditImage{
+    width: 27px;
+    height: 27px;
+}
+
+.productInfoInput {
+
+}
+
+.productInput {
+    border: none;
+    border-bottom: 1px solid;
+    padding: 5px;
+    font-size: 17px;
+}
+
+.productInput:focus {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #d06224;
+}
+
+.para {
+    margin-bottom:0;
+}

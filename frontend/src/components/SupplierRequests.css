@@ -1,0 +1,119 @@
+.SupplierRequests{
+    height: 80%;
+    width: 90%;
+    background-color: white;
+    margin-top: 4%;
+    margin-left: 5%;
+    border-radius: 2%;
+   
+    
+  
+  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+  }
+
+
+ 
+
+.styled-table thead tr {
+    background-color: #FFD966 !important;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table thead th {
+    background-color:  #F9B022 !important;
+    
+}
+
+.styled-table th
+{
+    padding:  15px; 
+   
+}
+.styled-table td {
+    padding:  15px;
+    
+}
+
+
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #FFD966;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #ffffff;
+}
+
+.action-buttons{
+    width: 300px;
+
+}
+
+
+
+
+.button3{
+    background-color: #F9B022;
+    color: white;
+    border-color: #F9B022;
+
+    
+}
+
+.button3:hover{
+    background-color: #d1951d;
+    color: white;
+    
+}
+
+.button4{
+    background-color: #F9B022;
+    color: white;
+    border-color: #F9B022;
+    width: 70px !important;
+    margin-left: 0px !important;
+    
+}
+
+.button4:hover{
+    background-color: #d1951d;
+    color: white;
+    
+}
+
+
+
+
+.search{
+    color: white;
+    height:38px;
+    background-color: #F9B022;
+}
+
+
+
+.ml-2{
+    margin-left: 10px;
+
+}
+
+
+h2 {
+    font-size: 170% !important;
+    font-weight: 400 !important;
+    text-align: center !important;
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+  }

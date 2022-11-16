@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomerOrderAdd"
+    android:background="@drawable/back"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="300px"
+                android:layout_height="150px"
+                android:layout_marginLeft="20px"
+                android:layout_marginTop="10px"
+                android:text="Back"
+                android:backgroundTint="#F9B022"
+                >
+
+            </Button>
+            <LinearLayout
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#80dedede"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+
+                >
+
+                <EditText
+                    android:id="@+id/item"
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Items"/>
+
+                <EditText
+                    android:id="@+id/quantity"
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Quantity"/>
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/addOrder"
+                android:layout_width="350dp"
+                android:layout_height="160px"
+                android:backgroundTint="#F9B022"
+                android:text="Add Order"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp"
+                android:layout_marginTop="50px"
+                android:layout_gravity="center"
+                tools:ignore="InvalidId">
+
+            </Button>
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

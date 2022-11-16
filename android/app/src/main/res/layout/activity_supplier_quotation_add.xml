@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SupplierQuotationAdd"
+    android:background="@drawable/back"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="200px"
+                android:layout_height="150px"
+                android:layout_marginLeft="40px"
+                android:layout_marginTop="30px"
+                android:text="Close"
+                android:textSize="15dp"
+                android:padding="0px"
+                android:textColor="@color/white"
+
+                android:backgroundTint="#eb2f0e"
+                >
+
+            </Button>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Sales Quotation"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"></TextView>
+
+        </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#80dedede"
+
+                android:layout_marginTop="25dp"
+
+                >
+
+                <EditText
+                    android:id="@+id/itemEdit"
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Items">
+
+                </EditText>
+
+                <EditText
+                    android:id="@+id/priceEdit"
+                    android:layout_width="match_parent"
+                    android:layout_height="160px"
+                    android:hint="Price(1KG)"
+                    android:inputType="number">
+
+                </EditText><EditText
+                android:id="@+id/quantityEdit"
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:hint="Quantity"
+                android:inputType="number">
+
+            </EditText>
+
+
+
+
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/add"
+                android:layout_width="350dp"
+                android:layout_height="160px"
+                android:layout_gravity="center"
+                android:layout_marginTop="50px"
+                android:backgroundTint="#F9B022"
+                android:text="Add Quotation"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp">
+
+            </Button>
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

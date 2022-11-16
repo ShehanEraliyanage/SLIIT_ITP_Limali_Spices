@@ -1,0 +1,14 @@
+.newProduct{
+    margin: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.newProductHeading {
+    font-size: 20px;
+    color: #1D5C63;
+}
+
+.newProductContent {
+    margin-top: 10px;
+}

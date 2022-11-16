@@ -1,0 +1,62 @@
+.Sdashboard{
+    height: 80%;
+    width: 90%;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 5%;
+    border-radius: 2%;
+    padding: 15px;
+   display: flex;
+   flex-wrap: wrap;
+    
+  
+  
+}
+
+
+.w-container{
+    height: 50%;
+    width: 50%;
+    background-color:#F9B022;
+    display: flex;
+    padding: 10px;
+    border-radius: 2%;
+    margin-bottom: 5px;
+   
+    
+  
+  
+}
+
+
+.c-container{
+    height: 50%;
+    width: 40%;
+    background-color:#F9B022;
+
+    margin-left: 70px;
+    border-radius: 2%;
+   
+    
+  
+  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  .react-calendar{
+      width: auto;
+      border-radius: 2% ;
+  }
+
+  .homeimg{
+      width: 350px;
+      height: auto;
+      margin-left: 70px;
+      margin-top: 0px;
+      
+  }

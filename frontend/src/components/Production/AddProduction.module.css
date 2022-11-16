@@ -1,0 +1,129 @@
+.AddProductionModal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.AddProductionModalContent {
+    background-color: white;
+    position: absolute;
+    top: 7%;
+    left: 14%;
+    width: 44%;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 550px;
+    
+}
+
+.AddProductionModalContentH3 {
+    margin: 20px 0;
+    font-size: 25px;
+    font-weight: 900;
+    color: #1d5c63;
+}
+
+.AddProductionModalContentAddPro {
+    width: 94%;
+    margin: 20px;
+}
+
+.AddProductionModalContentAddProbtn {
+    padding: 10px 40px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin:auto;
+}
+
+.AddProductionModalContentAddProbtnIcon {
+    width:30px;
+    margin-right: 15px;
+}
+
+.AddProductionModalContentAllPRoducts{
+    /* min-height: 150px; */
+    /* max-height: 250px; */
+    /* overflow-y: auto; */
+    width: 100%;
+    /* height: auto; */
+}
+
+.AddProductionModalContentPRoducts {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+    padding: 0 40px;
+}
+
+.AddProductionModalContentSelect {
+    width: 200px;
+    margin-right: 60px;
+    /* max-height: 300px;
+    overflow: auto; */
+}
+
+.AddProductionModalContentNum {
+    display: flex;
+    align-items: center;
+}
+
+.AddProductionModalContentInput {
+    width: 100px;
+    height: 35px;
+}
+
+.AddProductionModalContentKg {
+    margin-bottom: 0;
+    margin: 0 10px;
+}
+
+.AddProductionModalContentRemove {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.AddProductionModalContentRemoveIcon {
+    width: 30px;
+}
+
+.AddProductionModalContentButtons {
+    display: flex;
+    margin: 25px 20px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.AddProductionModalContentCancel {
+
+}
+
+.AddProductionModalContentCancelbtn {
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.AddProductionModalContentSubmit {
+
+}
+
+.AddProductionModalContentSubmitbtn {
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background: burlywood;
+}

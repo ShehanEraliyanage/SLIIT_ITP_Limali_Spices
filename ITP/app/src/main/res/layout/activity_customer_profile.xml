@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomerProfile"
+    android:background="@drawable/back"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+         <Button
+             android:layout_width="300px"
+             android:layout_height="150px"
+             android:layout_marginLeft="20px"
+             android:layout_marginTop="10px"
+             android:text="Back"
+             android:backgroundTint="#F9B022"
+             >
+
+         </Button>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#80dedede"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="25dp"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Name:"
+                    android:textSize="22dp"
+                    android:gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Thanushi Perera"
+                    android:textSize="22dp"
+                    android:gravity="right"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="10dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Name:"
+                    android:textSize="22dp"
+                    android:gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Thanushi Perera"
+                    android:textSize="22dp"
+                    android:gravity="right"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="10dp"
+                    />
+
+            </LinearLayout> <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="15dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name:"
+                android:textSize="22dp"
+                android:gravity="left"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thanushi Perera"
+                android:textSize="22dp"
+                android:gravity="right"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                />
+
+        </LinearLayout> <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="15dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name:"
+                android:textSize="22dp"
+                android:gravity="left"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thanushi Perera"
+                android:textSize="22dp"
+                android:gravity="right"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                />
+
+        </LinearLayout> <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="15dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name:"
+                android:textSize="22dp"
+                android:gravity="left"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thanushi Perera"
+                android:textSize="22dp"
+                android:gravity="right"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                />
+
+        </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+            <Button
+                android:layout_width="350dp"
+                android:layout_height="160px"
+                android:backgroundTint="#F9B022"
+                android:text="Update Profile"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp"
+                android:layout_marginTop="50px"
+                android:layout_gravity="center">
+
+            </Button>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>
